@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "523377790339",
+    "firebase_url": "https://accident-notifier-efbca-default-rtdb.firebaseio.com",
+    "project_id": "accident-notifier-efbca",
+    "storage_bucket": "accident-notifier-efbca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523377790339:android:640001815c05ab7ef4fab6",
+        "android_client_info": {
+          "package_name": "com.example.accident_notifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523377790339-2b7c44ngs0o0jogavg4v38ik8r29qvfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD6xLnFBguApW7kcpj6PSzymt9slV7550"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523377790339-2b7c44ngs0o0jogavg4v38ik8r29qvfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
